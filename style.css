@@ -134,6 +134,16 @@ nav span {
     background-image: url(img/promo_supplier_responsibility.jpg);
 }
 
+.lower {
+    color: #6e6e6e;
+    font-size: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 20px;
+    width: 1100px;
+
+}
+
 .lower a{
     color: #08c;
     text-decoration: none;
