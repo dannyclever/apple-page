@@ -179,3 +179,36 @@ nav span {
     padding: 0;
 
 }
+
+[href="one"]{
+    margin: 60px 0 -20px 0;
+}
+[href="one"] > div{
+    background-image: url("img/your_verse_title_small.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: auto;
+    height: 104px;
+    width: 960px;
+}
+[href="two"]{
+    margin-bottom: 25px;
+}
+[href="two"] > div{
+    background-image: url("img/your_verse_subhead_small.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: auto;
+    height: 82px;
+    width: 980px;
+}
+[href="three"] > div{
+    background-image: url("img/cta_your_verse_27pt.png");
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 31px;
+    width: 960px;
+}
+[href="three"] > div:hover{
+    background-position: bottom;
+}
