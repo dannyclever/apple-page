@@ -2,3 +2,63 @@ body {
     margin: 0;
     font-family: 'Open Sans', sans-serif;
 }
+
+main {
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    font-weight: lighter;
+    font-size: 30px;
+    margin: -16px auto;
+    width: 100%;
+}
+main a {
+    color: white;
+    text-decoration: none;
+
+}
+main li{
+    display: inline-block;
+    float: left;
+    padding: 12px 20px 12px 20px;
+    vertical-align: middle;
+    height:39px;
+}
+main li:hover {
+    background-color: rgba(0, 0, 0, 0.466);
+}
+main li:first-of-type {
+   margin: 0;
+   padding: 0;
+   border-top-left-radius: 5px;
+   border-bottom-left-radius: 5px;
+}
+main li:last-of-type {
+    padding-right: 0;
+}
+main li:last-of-type:hover {
+    background-color: rgba(0, 0, 0, 0);
+}
+main li a{
+    height: 35px;
+}
+li a > div{
+    background-image: url("img/Apple-Logo.png");
+    background-size: 20px;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 80px;
+    height: 35px;
+    margin-top: -12px;
+
+}
+main ul {
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0 20px auto 0;
+    padding-left: 0;
+    padding-right: 0;
+    height: 100%;
+}
