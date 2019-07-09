@@ -11,15 +11,14 @@ Used:
  * HTML
  * Grid
  
-## Authors
+## Author
 
- * Neto daniel Zinga https://github.com/dannyclever
- * Nick Haralampopoulos https://github.com/macnick
+ * Neto Daniel Zinga https://github.com/dannyclever
 
 ## Screenshot
 
-![screenshot](img/Screenshot.jpg)
+![screenshot](img/picture_of_the_page.png)
 
 ## The Website
 
-Follow the link to acess to the Website: https://dannyclever.github.io/embedding-images-and-video/
+Follow the link to acess to the Website: https://github.com/dannyclever/apple-page
