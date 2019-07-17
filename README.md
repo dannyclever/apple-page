@@ -7,9 +7,8 @@
 In this project i cloned the website of one of the most design-forward companies in the world. It uses background photos well and the navbar at the top contains a gradient that i tried be able to mimic.
 
 Used:
- * CSS FlexBox
- * HTML
- * Grid
+ * HTML5
+ * Grid CSS
  
 ## Author
 

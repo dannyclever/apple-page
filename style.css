@@ -79,6 +79,11 @@ nav {
 nav ul a {
     margin: 0 12px;
 }
+
+nav ul > * {
+    border-right: 1px solid rgb(77, 76, 76);
+}
+
 nav input {
     margin: -3px 10px;
     background-color: rgba(255,255,255,.1);
@@ -97,15 +102,6 @@ nav input:focus {
     background-image: url("img/search_icon2.png");
     background-color: white;
     width: 120px;
-}
-nav span {
-    display: inline-block;
-    float: left;
-    width: 1px;
-    height: 100%;
-    background-color:#363636;
-    margin: 0px;
-    padding: 0;
 }
 
 .container {
